@@ -1,5 +1,5 @@
 # MNIST Digit Recognition
-## If you've never used git before
+## How to run
 
 1. Clone this repo
 2. Download the MNIST dataset from [here](https://www.kaggle.com/c/digit-recognizer/data).
